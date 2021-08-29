@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Feqoz im a code developer!
+- 👀 I code in C#, Python, C++ and node.js
